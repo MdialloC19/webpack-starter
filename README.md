@@ -21,6 +21,7 @@ Follow these steps to start using the Webpack Starter:
 4. Open your browser and visit `http://localhost:8080` to see the sample application.
 
 ## Project Structure
+```
 webpack-starter/
 │
 ├── src/ # Source code directory
@@ -34,7 +35,7 @@ webpack-starter/
 ├── package.json # Node.js package file
 └── webpack.config.js # Webpack configuration file
 
-
+```
 Feel free to customize the project structure to suit your needs.
 
 ## Scripts
